@@ -1,0 +1,33 @@
+Melody Tribble
+Spring 2017
+CSCI 305 Programing Lab 2 Haskell
+Collaborators: None at the time of submission, although I am a tutor in the Student Success Center so I may be helping others in the next few weeks. 
+Resources: http://learnyouahaskell.com/, https://www.haskell.org/hoogle/, http://stackoverflow.com/, https://wiki.haskell.org/
+
+Question 1: What did you get when running f with the input above?
+[13,12,11,10,9,8]
+
+Question 2: What does this function f do?
+It recursively adds 3 to a list.
+
+Question 3: What does [10, 9..5] do? 
+Creates a the list [10, 9, 8, 7, 6, 5].
+
+Question 4: Given a comment that explains the line following (a).
+If the parameter list is null
+
+Question 5: Given a comment that explains the line following (b).
+Return an empty list
+
+Question 6: Given a comment that explains the line following (c).
+Else add k to the element at the head of the list and call function recursivly with the tail of the list. Eventually this will return a list with every element added by k.
+
+• Question 7: Name something you liked about Haskell. Explain. I like all the recursion, kind of fun and always good to practice. =)
+
+• Question 8: Name something you dislike about Haskell. Explain. The strong typing is a bit annoying although once you get past the initial frustration it is not a big deal. 
+
+• Question 9: How many hours did you spend on this lab? ~10 hours
+
+• Question 10: Did you enjoy this lab? Yes. I like the short simple functions that build upon each other, a great way to learn a new language. 
+
+• Question 11: Do you think you will use Haskell again? I sure hope so!
